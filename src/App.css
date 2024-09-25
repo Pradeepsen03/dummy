@@ -1,0 +1,38 @@
+.content {
+  padding: 2rem 0;
+}
+h3 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+h2 {
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+.form-control {
+  border: none;
+  border-bottom: 1px solid #d9d9d9;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 0;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+
+form.border-right {
+  padding-right: 6rem !important;
+}
+
+.pr-5, .px-5 {
+  padding-right: 3rem!important;
+}
+.mb-5, .my-5 {
+  margin-bottom: 3rem!important;
+}
+.btn, .form-control {
+  height: 55px;
+}
+.pl-4, .px-4 {
+  padding-left: 1.5rem!important;
+}
